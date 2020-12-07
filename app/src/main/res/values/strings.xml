@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tubes_UAS</string>
+    <string name="show_list_title">Show List User</string>
+    <string name="create_title">Create User</string>
+    <string name="search_hint">Search User</string>
+    <string name="edit_title">Edit User</string>
+
+    <string name="create_kos">Create Kos</string>
+    <string name="edit_kos">Edit Kos</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmV0YWlzdGlxb21haCIsImEiOiJja2ZtbXplMGExZWhvMnptamUzMTZicmtoIn0.0KQTYomlz2Z7FqDAukt_cQ</string>
+</resources>
